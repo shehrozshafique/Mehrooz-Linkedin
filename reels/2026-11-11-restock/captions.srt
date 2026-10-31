@@ -1,0 +1,55 @@
+1
+00:00:00,150 --> 00:00:01,742
+We don't delete sold-out products.
+
+2
+00:00:03,100 --> 00:00:04,842
+We keep the page working for buyers.
+
+3
+00:00:05,100 --> 00:00:06,633
+Most stores do this.
+
+4
+00:00:07,050 --> 00:00:07,850
+Hide it.
+
+5
+00:00:08,050 --> 00:00:08,850
+Delete it.
+
+6
+00:00:09,050 --> 00:00:09,850
+Forget it.
+
+7
+00:00:10,100 --> 00:00:11,959
+But first, ask three things.
+
+8
+00:00:13,100 --> 00:00:13,937
+Is it coming back?
+
+9
+00:00:16,100 --> 00:00:16,934
+Is there a replacement?
+
+10
+00:00:19,100 --> 00:00:19,995
+Does it have links?
+
+11
+00:00:21,980 --> 00:00:25,017
+Without those answers, a sold-out product becomes a dead page.
+
+12
+00:00:25,150 --> 00:00:27,055
+Sold out is only a stock problem.
+
+13
+00:00:27,150 --> 00:00:28,695
+Don't make it an SEO problem.
+
+14
+00:00:28,900 --> 00:00:30,000
+Comment RESTOCK · @Mehrooz · Permanent SEO
