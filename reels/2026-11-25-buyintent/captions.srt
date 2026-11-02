@@ -1,0 +1,55 @@
+1
+00:00:00,150 --> 00:00:01,173
+We don't chase traffic.
+
+2
+00:00:03,100 --> 00:00:04,952
+We chase searches from people ready to buy.
+
+3
+00:00:05,100 --> 00:00:06,796
+Most reports celebrate this.
+
+4
+00:00:07,050 --> 00:00:07,850
+Sessions.
+
+5
+00:00:08,050 --> 00:00:08,850
+Impressions.
+
+6
+00:00:09,050 --> 00:00:09,850
+Rankings.
+
+7
+00:00:10,100 --> 00:00:12,214
+But first, three things need to be true.
+
+8
+00:00:13,100 --> 00:00:14,366
+Is the searcher ready to buy?
+
+9
+00:00:16,100 --> 00:00:17,448
+Can they buy on that page?
+
+10
+00:00:19,100 --> 00:00:20,274
+Is the next step clear?
+
+11
+00:00:22,000 --> 00:00:24,880
+Without that, more traffic doesn't create more sales.
+
+12
+00:00:25,100 --> 00:00:26,285
+It creates visitors.
+
+13
+00:00:27,100 --> 00:00:29,280
+Traffic is a number. Revenue is the point.
+
+14
+00:00:29,450 --> 00:00:30,000
+Comment BUYINTENT · @Mehrooz · Permanent SEO
